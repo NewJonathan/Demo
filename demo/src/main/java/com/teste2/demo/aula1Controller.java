@@ -9,7 +9,8 @@ public class aula1Controller {
 
     @GetMapping("/")
     public String aula1(){
-        return "aula 1";
+        return "aula1";
     }
+
     
 }

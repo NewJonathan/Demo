@@ -1,0 +1,20 @@
+<style>
+    body{ 
+        background-color: grey;
+    }
+    h5{    
+        color: greenyellow;
+    
+    }
+    h5{ background-color: grey;}
+    img{
+        border: 15px;
+        border-style: groove;
+        padding: 15px;
+    }      
+    h2{
+        color: black;
+        border: 5px;
+        border-color: greenyellow;
+    }
+</style>
